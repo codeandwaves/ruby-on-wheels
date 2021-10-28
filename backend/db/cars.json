@@ -1,0 +1,2890 @@
+[
+  {
+    "brand": "Aston Martin",
+    "name": "V8 Vantage"
+  },
+  {
+    "brand": "Aston Martin",
+    "name": "DBS"
+  },
+  {
+    "brand": "Aston Martin",
+    "name": "DB9"
+  },
+  {
+    "brand": "Aston Martin",
+    "name": "Rapide"
+  },
+  {
+    "brand": "Aston Martin",
+    "name": "V12 Vantage"
+  },
+  {
+    "brand": "Aston Martin",
+    "name": "Virage"
+  },
+  {
+    "brand": "Aston Martin",
+    "name": "Vanquish"
+  },
+  {
+    "brand": "Aston Martin",
+    "name": "DB11"
+  },
+  {
+    "brand": "Aston Martin",
+    "name": "Lagonda"
+  },
+  {
+    "brand": "Aston Martin",
+    "name": "Vantage"
+  },
+  {
+    "brand": "Tesla",
+    "name": "Model S"
+  },
+  {
+    "brand": "Tesla",
+    "name": "Roadster"
+  },
+  {
+    "brand": "Tesla",
+    "name": "Model X"
+  },
+  {
+    "brand": "Tesla",
+    "name": "Model 3"
+  },
+  {
+    "brand": "Tesla",
+    "name": "Model Y"
+  },
+  {
+    "brand": "Jaguar",
+    "name": "XJ"
+  },
+  {
+    "brand": "Jaguar",
+    "name": "XF"
+  },
+  {
+    "brand": "Jaguar",
+    "name": "XK"
+  },
+  {
+    "brand": "Jaguar",
+    "name": "X-Type"
+  },
+  {
+    "brand": "Jaguar",
+    "name": "S-Type"
+  },
+  {
+    "brand": "Jaguar",
+    "name": "F-Type"
+  },
+  {
+    "brand": "Jaguar",
+    "name": "Vanden Plas"
+  },
+  {
+    "brand": "Jaguar",
+    "name": "XK8"
+  },
+  {
+    "brand": "Jaguar",
+    "name": "XJR"
+  },
+  {
+    "brand": "Jaguar",
+    "name": "XE"
+  },
+  {
+    "brand": "Maserati",
+    "name": "Quattroporte"
+  },
+  {
+    "brand": "Maserati",
+    "name": "Granturismo"
+  },
+  {
+    "brand": "Maserati",
+    "name": "Coupe"
+  },
+  {
+    "brand": "Maserati",
+    "name": "Spyder"
+  },
+  {
+    "brand": "Maserati",
+    "name": "Ghibli"
+  },
+  {
+    "brand": "Maserati",
+    "name": "Levante"
+  },
+  {
+    "brand": "Maserati",
+    "name": "Merak"
+  },
+  {
+    "brand": "Maserati",
+    "name": "Biturbo"
+  },
+  {
+    "brand": "Maserati",
+    "name": "TC"
+  },
+  {
+    "brand": "Maserati",
+    "name": "430"
+  },
+  {
+    "brand": "Land Rover",
+    "name": "Discovery Sport"
+  },
+  {
+    "brand": "Land Rover",
+    "name": "LR2"
+  },
+  {
+    "brand": "Land Rover",
+    "name": "Range Rover Evoque"
+  },
+  {
+    "brand": "Land Rover",
+    "name": "LR4"
+  },
+  {
+    "brand": "Land Rover",
+    "name": "Range Rover Sport"
+  },
+  {
+    "brand": "Land Rover",
+    "name": "Range Rover"
+  },
+  {
+    "brand": "Land Rover",
+    "name": "LR3"
+  },
+  {
+    "brand": "Land Rover",
+    "name": "Discovery"
+  },
+  {
+    "brand": "Land Rover",
+    "name": "Freelander"
+  },
+  {
+    "brand": "Land Rover",
+    "name": "Defender"
+  },
+  {
+    "brand": "Rolls Royce",
+    "name": "Phantom"
+  },
+  {
+    "brand": "Rolls Royce",
+    "name": "Ghost"
+  },
+  {
+    "brand": "Rolls Royce",
+    "name": "Wraith"
+  },
+  {
+    "brand": "Rolls Royce",
+    "name": "Silver Dawn"
+  },
+  {
+    "brand": "Rolls Royce",
+    "name": "Silver Spur"
+  },
+  {
+    "brand": "Rolls Royce",
+    "name": "Silver Spirit"
+  },
+  {
+    "brand": "Rolls Royce",
+    "name": "Touring Limousine"
+  },
+  {
+    "brand": "Rolls Royce",
+    "name": "Corniche"
+  },
+  {
+    "brand": "Rolls Royce",
+    "name": "Park Ward"
+  },
+  {
+    "brand": "Rolls Royce",
+    "name": "Silver Seraph"
+  },
+  {
+    "brand": "Buell (Ebr)",
+    "name": "R series"
+  },
+  {
+    "brand": "Buell (Ebr)",
+    "name": "S Series"
+  },
+  {
+    "brand": "Buell (Ebr)",
+    "name": "A Series"
+  },
+  {
+    "brand": "Jialing",
+    "name": "Hot Rod"
+  },
+  {
+    "brand": "Jialing",
+    "name": "La Vita"
+  },
+  {
+    "brand": "Toyota",
+    "name": "SCION xA"
+  },
+  {
+    "brand": "Toyota",
+    "name": "SCION tC"
+  },
+  {
+    "brand": "Toyota",
+    "name": "Corolla"
+  },
+  {
+    "brand": "Toyota",
+    "name": "PRIUS"
+  },
+  {
+    "brand": "Toyota",
+    "name": "SCION xB"
+  },
+  {
+    "brand": "Toyota",
+    "name": "Land Cruiser"
+  },
+  {
+    "brand": "Toyota",
+    "name": "Highlander"
+  },
+  {
+    "brand": "Toyota",
+    "name": "4-Runner"
+  },
+  {
+    "brand": "Toyota",
+    "name": "RAV4"
+  },
+  {
+    "brand": "Toyota",
+    "name": "Tacoma"
+  },
+  {
+    "brand": "Mercedes Benz",
+    "name": "Sprinter"
+  },
+  {
+    "brand": "Mercedes Benz",
+    "name": "SL-Class"
+  },
+  {
+    "brand": "Mercedes Benz",
+    "name": "SLK-Class"
+  },
+  {
+    "brand": "Mercedes Benz",
+    "name": "E-Class"
+  },
+  {
+    "brand": "Mercedes Benz",
+    "name": "CLS-Class"
+  },
+  {
+    "brand": "Mercedes Benz",
+    "name": "CLA-Class"
+  },
+  {
+    "brand": "Mercedes Benz",
+    "name": "GLA-Class"
+  },
+  {
+    "brand": "Mercedes Benz",
+    "name": "C-Class"
+  },
+  {
+    "brand": "Mercedes Benz",
+    "name": "S-Class"
+  },
+  {
+    "brand": "Mercedes Benz",
+    "name": "SLS-Class"
+  },
+  {
+    "brand": "Freightliner",
+    "name": "Sprinter"
+  },
+  {
+    "brand": "Freightliner",
+    "name": "MB Chassis"
+  },
+  {
+    "brand": "Freightliner",
+    "name": "MC 45 Chassis"
+  },
+  {
+    "brand": "Freightliner",
+    "name": "XC Chassis"
+  },
+  {
+    "brand": "Freightliner",
+    "name": "XC-S Straight Rail Rear Engine Motor Home Chassis"
+  },
+  {
+    "brand": "Freightliner",
+    "name": "VCL Chassis"
+  },
+  {
+    "brand": "Freightliner",
+    "name": "MT 35 Chassis"
+  },
+  {
+    "brand": "Freightliner",
+    "name": "MT 45 Chassis"
+  },
+  {
+    "brand": "Freightliner",
+    "name": "MT 55 Chassis"
+  },
+  {
+    "brand": "Freightliner",
+    "name": "ER Rear Engine Bus Chassis"
+  },
+  {
+    "brand": "Fulmer Fabrications",
+    "name": "Fulmer Bike"
+  },
+  {
+    "brand": "Fulmer Fabrications",
+    "name": "Fulmer Trike"
+  },
+  {
+    "brand": "Bmw",
+    "name": "128i"
+  },
+  {
+    "brand": "Bmw",
+    "name": "135i"
+  },
+  {
+    "brand": "Bmw",
+    "name": "328i"
+  },
+  {
+    "brand": "Bmw",
+    "name": "M3"
+  },
+  {
+    "brand": "Bmw",
+    "name": "335i"
+  },
+  {
+    "brand": "Bmw",
+    "name": "335is"
+  },
+  {
+    "brand": "Bmw",
+    "name": "335d"
+  },
+  {
+    "brand": "Bmw",
+    "name": "X6"
+  },
+  {
+    "brand": "Bmw",
+    "name": "528i"
+  },
+  {
+    "brand": "Bmw",
+    "name": "535i"
+  },
+  {
+    "brand": "Motorcycle Machine Shop Services",
+    "name": "Brighton Comet"
+  },
+  {
+    "brand": "Bugatti",
+    "name": "Veyron"
+  },
+  {
+    "brand": "Bugatti",
+    "name": "Chiron"
+  },
+  {
+    "brand": "Bugatti",
+    "name": "EB110"
+  },
+  {
+    "brand": "Hombilt Trailers",
+    "name": "Hombilt Trailers"
+  },
+  {
+    "brand": "Mini",
+    "name": "Cooper"
+  },
+  {
+    "brand": "Mini",
+    "name": "Clubman"
+  },
+  {
+    "brand": "Mini",
+    "name": "Cooper Convertible"
+  },
+  {
+    "brand": "Mini",
+    "name": "Hardtop"
+  },
+  {
+    "brand": "Mini",
+    "name": "Countryman"
+  },
+  {
+    "brand": "Mini",
+    "name": "Cooper Coupe"
+  },
+  {
+    "brand": "Mini",
+    "name": "Cooper Roadster"
+  },
+  {
+    "brand": "Mini",
+    "name": "Paceman"
+  },
+  {
+    "brand": "Acg",
+    "name": "Golf Cart"
+  },
+  {
+    "brand": "Acg",
+    "name": "Low Speed Vehicle (LSV)"
+  },
+  {
+    "brand": "Acg",
+    "name": "Passenger Car"
+  },
+  {
+    "brand": "Acg",
+    "name": "Bremach"
+  },
+  {
+    "brand": "Acg",
+    "name": "MOKE"
+  },
+  {
+    "brand": "Acg",
+    "name": "39 Roadster"
+  },
+  {
+    "brand": "Acg",
+    "name": "California Roadster"
+  },
+  {
+    "brand": "Acg",
+    "name": "T-Sport"
+  },
+  {
+    "brand": "Acg",
+    "name": "Hummer H3"
+  },
+  {
+    "brand": "Acg",
+    "name": "Escalade"
+  },
+  {
+    "brand": "Moonlight Choppers",
+    "name": "Sport Cruiser"
+  },
+  {
+    "brand": "Moonlight Choppers",
+    "name": "Bobber"
+  },
+  {
+    "brand": "Moonlight Choppers",
+    "name": "Bagger"
+  },
+  {
+    "brand": "Moonlight Choppers",
+    "name": "Trike"
+  },
+  {
+    "brand": "Cooper Cycles",
+    "name": "Mono"
+  },
+  {
+    "brand": "Ford",
+    "name": "Crown Victoria"
+  },
+  {
+    "brand": "Ford",
+    "name": "Focus"
+  },
+  {
+    "brand": "Ford",
+    "name": "Fusion"
+  },
+  {
+    "brand": "Ford",
+    "name": "Mustang"
+  },
+  {
+    "brand": "Ford",
+    "name": "Taurus"
+  },
+  {
+    "brand": "Ford",
+    "name": "E-150"
+  },
+  {
+    "brand": "Ford",
+    "name": "Edge"
+  },
+  {
+    "brand": "Ford",
+    "name": "Escape"
+  },
+  {
+    "brand": "Ford",
+    "name": "Expedition"
+  },
+  {
+    "brand": "Ford",
+    "name": "Explorer"
+  },
+  {
+    "brand": "Latitude",
+    "name": "Latitude"
+  },
+  {
+    "brand": "Country Coach",
+    "name": "Allure"
+  },
+  {
+    "brand": "Country Coach",
+    "name": "Intrigue"
+  },
+  {
+    "brand": "Country Coach",
+    "name": "Magna"
+  },
+  {
+    "brand": "Country Coach",
+    "name": "Affinity"
+  },
+  {
+    "brand": "Country Coach",
+    "name": "Inspire"
+  },
+  {
+    "brand": "Country Coach",
+    "name": "Concept"
+  },
+  {
+    "brand": "Country Coach",
+    "name": "Islander"
+  },
+  {
+    "brand": "Country Coach",
+    "name": "Lexa"
+  },
+  {
+    "brand": "Country Coach",
+    "name": "LTC Chassis"
+  },
+  {
+    "brand": "Country Coach",
+    "name": "LE Chassis"
+  },
+  {
+    "brand": "Westward Industries",
+    "name": "GO-4 Interceptor"
+  },
+  {
+    "brand": "Westward Industries",
+    "name": "GO-4 P35"
+  },
+  {
+    "brand": "Westward Industries",
+    "name": "WESTWARD INDUSTRIES "
+  },
+  {
+    "brand": "Westward Industries",
+    "name": "GO-4 Interceptor XTR"
+  },
+  {
+    "brand": "Westward Industries",
+    "name": "MAX-EV 3"
+  },
+  {
+    "brand": "Westward Industries",
+    "name": "GO-4 Interceptor XTF"
+  },
+  {
+    "brand": "Lincoln",
+    "name": "MKZ"
+  },
+  {
+    "brand": "Lincoln",
+    "name": "Town Car"
+  },
+  {
+    "brand": "Lincoln",
+    "name": "MKS"
+  },
+  {
+    "brand": "Lincoln",
+    "name": "MKT"
+  },
+  {
+    "brand": "Lincoln",
+    "name": "MKX"
+  },
+  {
+    "brand": "Lincoln",
+    "name": "Navigator"
+  },
+  {
+    "brand": "Lincoln",
+    "name": "LS"
+  },
+  {
+    "brand": "Lincoln",
+    "name": "Aviator"
+  },
+  {
+    "brand": "Lincoln",
+    "name": "Zephyr"
+  },
+  {
+    "brand": "Lincoln",
+    "name": "Mark LT"
+  },
+  {
+    "brand": "Mercury",
+    "name": "Grand Marquis"
+  },
+  {
+    "brand": "Mercury",
+    "name": "Milan"
+  },
+  {
+    "brand": "Mercury",
+    "name": "Mariner"
+  },
+  {
+    "brand": "Mercury",
+    "name": "Mountaineer"
+  },
+  {
+    "brand": "Mercury",
+    "name": "Sable"
+  },
+  {
+    "brand": "Mercury",
+    "name": "Montego"
+  },
+  {
+    "brand": "Mercury",
+    "name": "Monterey"
+  },
+  {
+    "brand": "Mercury",
+    "name": "Cougar"
+  },
+  {
+    "brand": "Mercury",
+    "name": "Villager"
+  },
+  {
+    "brand": "Mercury",
+    "name": "Tracer"
+  },
+  {
+    "brand": "Lotus",
+    "name": "Evora"
+  },
+  {
+    "brand": "Lotus",
+    "name": "Elise"
+  },
+  {
+    "brand": "Lotus",
+    "name": "Eleven"
+  },
+  {
+    "brand": "Lotus",
+    "name": "Esprit"
+  },
+  {
+    "brand": "Lotus",
+    "name": "Eagle"
+  },
+  {
+    "brand": "Lotus",
+    "name": "Europa"
+  },
+  {
+    "brand": "Lotus",
+    "name": "Monaco"
+  },
+  {
+    "brand": "Lotus",
+    "name": "MEL"
+  },
+  {
+    "brand": "Lotus",
+    "name": "Elite"
+  },
+  {
+    "brand": "Lotus",
+    "name": "Eclat"
+  },
+  {
+    "brand": "Chevrolet",
+    "name": "Aveo"
+  },
+  {
+    "brand": "Chevrolet",
+    "name": "Camaro"
+  },
+  {
+    "brand": "Chevrolet",
+    "name": "Caprice Police Vehicle"
+  },
+  {
+    "brand": "Chevrolet",
+    "name": "Corvette"
+  },
+  {
+    "brand": "Chevrolet",
+    "name": "Cruze"
+  },
+  {
+    "brand": "Chevrolet",
+    "name": "Impala"
+  },
+  {
+    "brand": "Chevrolet",
+    "name": "Malibu"
+  },
+  {
+    "brand": "Chevrolet",
+    "name": "Sonic"
+  },
+  {
+    "brand": "Chevrolet",
+    "name": "Spark"
+  },
+  {
+    "brand": "Chevrolet",
+    "name": "SS"
+  },
+  {
+    "brand": "Buick",
+    "name": "LaCrosse"
+  },
+  {
+    "brand": "Buick",
+    "name": "Regal"
+  },
+  {
+    "brand": "Buick",
+    "name": "Verano"
+  },
+  {
+    "brand": "Buick",
+    "name": "Enclave"
+  },
+  {
+    "brand": "Buick",
+    "name": "Encore"
+  },
+  {
+    "brand": "Buick",
+    "name": "Lucerne"
+  },
+  {
+    "brand": "Buick",
+    "name": "Allure"
+  },
+  {
+    "brand": "Buick",
+    "name": "Terraza"
+  },
+  {
+    "brand": "Buick",
+    "name": "Rainier"
+  },
+  {
+    "brand": "Buick",
+    "name": "Rendezvous"
+  },
+  {
+    "brand": "Cadillac",
+    "name": "ATS"
+  },
+  {
+    "brand": "Cadillac",
+    "name": "CTS"
+  },
+  {
+    "brand": "Cadillac",
+    "name": "ELR"
+  },
+  {
+    "brand": "Cadillac",
+    "name": "XTS"
+  },
+  {
+    "brand": "Cadillac",
+    "name": "Escalade"
+  },
+  {
+    "brand": "Cadillac",
+    "name": "SRX"
+  },
+  {
+    "brand": "Cadillac",
+    "name": "STS"
+  },
+  {
+    "brand": "Cadillac",
+    "name": "DTS"
+  },
+  {
+    "brand": "Cadillac",
+    "name": "XLR"
+  },
+  {
+    "brand": "Cadillac",
+    "name": "Limousine"
+  },
+  {
+    "brand": "Holden",
+    "name": "Volt"
+  },
+  {
+    "brand": "Holden",
+    "name": "Equinox"
+  },
+  {
+    "brand": "Holden",
+    "name": "Acadia"
+  },
+  {
+    "brand": "Opel",
+    "name": "Ampera"
+  },
+  {
+    "brand": "Opel",
+    "name": "Roadster"
+  },
+  {
+    "brand": "Opel",
+    "name": "Opel"
+  },
+  {
+    "brand": "Opel",
+    "name": "Sintra"
+  },
+  {
+    "brand": "Opel",
+    "name": "Ampera-e"
+  },
+  {
+    "brand": "Opel",
+    "name": "Ampera-e EV"
+  },
+  {
+    "brand": "Gmc",
+    "name": "Acadia"
+  },
+  {
+    "brand": "Gmc",
+    "name": "Savana"
+  },
+  {
+    "brand": "Gmc",
+    "name": "Sierra"
+  },
+  {
+    "brand": "Gmc",
+    "name": "Terrain"
+  },
+  {
+    "brand": "Gmc",
+    "name": "Yukon"
+  },
+  {
+    "brand": "Gmc",
+    "name": "Canyon"
+  },
+  {
+    "brand": "Gmc",
+    "name": "Envoy"
+  },
+  {
+    "brand": "Gmc",
+    "name": "Yukon XL"
+  },
+  {
+    "brand": "Gmc",
+    "name": "W4"
+  },
+  {
+    "brand": "Gmc",
+    "name": "Safari"
+  },
+  {
+    "brand": "Mazda",
+    "name": "Tribute"
+  },
+  {
+    "brand": "Mazda",
+    "name": "MX-5"
+  },
+  {
+    "brand": "Mazda",
+    "name": "RX-8"
+  },
+  {
+    "brand": "Mazda",
+    "name": "Mazda3"
+  },
+  {
+    "brand": "Mazda",
+    "name": "Mazda5"
+  },
+  {
+    "brand": "Mazda",
+    "name": "CX-7"
+  },
+  {
+    "brand": "Mazda",
+    "name": "CX-9"
+  },
+  {
+    "brand": "Mazda",
+    "name": "Mazda6"
+  },
+  {
+    "brand": "Mazda",
+    "name": "Mazda2"
+  },
+  {
+    "brand": "Mazda",
+    "name": "MPV"
+  },
+  {
+    "brand": "Honda",
+    "name": "Accord"
+  },
+  {
+    "brand": "Honda",
+    "name": "Civic"
+  },
+  {
+    "brand": "Honda",
+    "name": "Pilot"
+  },
+  {
+    "brand": "Honda",
+    "name": "CR-V"
+  },
+  {
+    "brand": "Honda",
+    "name": "Ridgeline"
+  },
+  {
+    "brand": "Honda",
+    "name": "Element"
+  },
+  {
+    "brand": "Honda",
+    "name": "Odyssey"
+  },
+  {
+    "brand": "Honda",
+    "name": "Insight"
+  },
+  {
+    "brand": "Honda",
+    "name": "FCX Clarity"
+  },
+  {
+    "brand": "Honda",
+    "name": "Fit"
+  },
+  {
+    "brand": "Acura",
+    "name": "ZDX"
+  },
+  {
+    "brand": "Acura",
+    "name": "RDX"
+  },
+  {
+    "brand": "Acura",
+    "name": "RL"
+  },
+  {
+    "brand": "Acura",
+    "name": "TL"
+  },
+  {
+    "brand": "Acura",
+    "name": "TSX"
+  },
+  {
+    "brand": "Acura",
+    "name": "MDX"
+  },
+  {
+    "brand": "Acura",
+    "name": "RLX"
+  },
+  {
+    "brand": "Acura",
+    "name": "ILX"
+  },
+  {
+    "brand": "Acura",
+    "name": "RSX"
+  },
+  {
+    "brand": "Acura",
+    "name": "Integra"
+  },
+  {
+    "brand": "Dodge",
+    "name": "Avenger"
+  },
+  {
+    "brand": "Dodge",
+    "name": "Challenger"
+  },
+  {
+    "brand": "Dodge",
+    "name": "Charger"
+  },
+  {
+    "brand": "Dodge",
+    "name": "Caliber"
+  },
+  {
+    "brand": "Dodge",
+    "name": "Viper"
+  },
+  {
+    "brand": "Dodge",
+    "name": "Ram"
+  },
+  {
+    "brand": "Dodge",
+    "name": "Journey"
+  },
+  {
+    "brand": "Dodge",
+    "name": "Nitro"
+  },
+  {
+    "brand": "Dodge",
+    "name": "Dakota"
+  },
+  {
+    "brand": "Dodge",
+    "name": "Caravan/Grand Caravan"
+  },
+  {
+    "brand": "Chrysler",
+    "name": "Cirrus"
+  },
+  {
+    "brand": "Chrysler",
+    "name": "Sebring"
+  },
+  {
+    "brand": "Chrysler",
+    "name": "300"
+  },
+  {
+    "brand": "Chrysler",
+    "name": "Town and Country"
+  },
+  {
+    "brand": "Chrysler",
+    "name": "Grand Voyager"
+  },
+  {
+    "brand": "Chrysler",
+    "name": "200"
+  },
+  {
+    "brand": "Chrysler",
+    "name": "PT Cruiser"
+  },
+  {
+    "brand": "Chrysler",
+    "name": "Crossfire"
+  },
+  {
+    "brand": "Chrysler",
+    "name": "Pacifica"
+  },
+  {
+    "brand": "Chrysler",
+    "name": "Aspen"
+  },
+  {
+    "brand": "Nissan",
+    "name": "GT-R"
+  },
+  {
+    "brand": "Nissan",
+    "name": "Versa"
+  },
+  {
+    "brand": "Nissan",
+    "name": "Versa Note"
+  },
+  {
+    "brand": "Nissan",
+    "name": "Altima"
+  },
+  {
+    "brand": "Nissan",
+    "name": "Leaf"
+  },
+  {
+    "brand": "Nissan",
+    "name": "370Z"
+  },
+  {
+    "brand": "Nissan",
+    "name": "Sentra"
+  },
+  {
+    "brand": "Nissan",
+    "name": "Pathfinder"
+  },
+  {
+    "brand": "Nissan",
+    "name": "Juke"
+  },
+  {
+    "brand": "Nissan",
+    "name": "Rogue"
+  },
+  {
+    "brand": "Quest Manufacturing",
+    "name": "Quest Manufacturing"
+  },
+  {
+    "brand": "Infiniti",
+    "name": "QX50"
+  },
+  {
+    "brand": "Infiniti",
+    "name": "Q40"
+  },
+  {
+    "brand": "Infiniti",
+    "name": "Q50"
+  },
+  {
+    "brand": "Infiniti",
+    "name": "Q60"
+  },
+  {
+    "brand": "Infiniti",
+    "name": "Q70"
+  },
+  {
+    "brand": "Infiniti",
+    "name": "QX70"
+  },
+  {
+    "brand": "Infiniti",
+    "name": "QX80"
+  },
+  {
+    "brand": "Infiniti",
+    "name": "QX60"
+  },
+  {
+    "brand": "Infiniti",
+    "name": "Q70L"
+  },
+  {
+    "brand": "Infiniti",
+    "name": "Q45"
+  },
+  {
+    "brand": "Mitsubishi",
+    "name": "Raider"
+  },
+  {
+    "brand": "Mitsubishi",
+    "name": "Outlander"
+  },
+  {
+    "brand": "Mitsubishi",
+    "name": "Lancer"
+  },
+  {
+    "brand": "Mitsubishi",
+    "name": "Galant"
+  },
+  {
+    "brand": "Mitsubishi",
+    "name": "Eclipse"
+  },
+  {
+    "brand": "Mitsubishi",
+    "name": "Endeavor"
+  },
+  {
+    "brand": "Mitsubishi",
+    "name": "Montero"
+  },
+  {
+    "brand": "Mitsubishi",
+    "name": "Eclipse Spyder"
+  },
+  {
+    "brand": "Mitsubishi",
+    "name": "RVR"
+  },
+  {
+    "brand": "Mitsubishi",
+    "name": "i-MiEV"
+  },
+  {
+    "brand": "Volkswagen",
+    "name": "Routan"
+  },
+  {
+    "brand": "Volkswagen",
+    "name": "Golf"
+  },
+  {
+    "brand": "Volkswagen",
+    "name": "Passat"
+  },
+  {
+    "brand": "Volkswagen",
+    "name": "Phaeton"
+  },
+  {
+    "brand": "Volkswagen",
+    "name": "Touareg"
+  },
+  {
+    "brand": "Volkswagen",
+    "name": "Jetta"
+  },
+  {
+    "brand": "Volkswagen",
+    "name": "GTI"
+  },
+  {
+    "brand": "Volkswagen",
+    "name": "R32"
+  },
+  {
+    "brand": "Volkswagen",
+    "name": "Jetta Wagon"
+  },
+  {
+    "brand": "Volkswagen",
+    "name": "Rabbit"
+  },
+  {
+    "brand": "Jeep",
+    "name": "Wrangler"
+  },
+  {
+    "brand": "Jeep",
+    "name": "Liberty"
+  },
+  {
+    "brand": "Jeep",
+    "name": "Cherokee"
+  },
+  {
+    "brand": "Jeep",
+    "name": "Compass"
+  },
+  {
+    "brand": "Jeep",
+    "name": "Patriot"
+  },
+  {
+    "brand": "Jeep",
+    "name": "Commander"
+  },
+  {
+    "brand": "Jeep",
+    "name": "Grand Cherokee"
+  },
+  {
+    "brand": "Jeep",
+    "name": "Renegade"
+  },
+  {
+    "brand": "Jeep",
+    "name": "Grand Wagoneer"
+  },
+  {
+    "brand": "Jeep",
+    "name": "Comanche"
+  },
+  {
+    "brand": "Club Car",
+    "name": "Low Speed Vehicle / Class A Club Car"
+  },
+  {
+    "brand": "Club Car",
+    "name": "The Classic Series"
+  },
+  {
+    "brand": "Club Car",
+    "name": "Pan-European Homologated Tractor"
+  },
+  {
+    "brand": "Club Car",
+    "name": "Pan-European Homologated Quadricycle"
+  },
+  {
+    "brand": "Club Car",
+    "name": "Club Car"
+  },
+  {
+    "brand": "Club Car",
+    "name": "Carryall 2 LSV"
+  },
+  {
+    "brand": "Club Car",
+    "name": "Carryall 6 LSV"
+  },
+  {
+    "brand": "Club Car",
+    "name": "Villager 2 LSV"
+  },
+  {
+    "brand": "Club Car",
+    "name": "Villager 2+2 LSV"
+  },
+  {
+    "brand": "Club Car",
+    "name": "Carryall 510 LSV"
+  },
+  {
+    "brand": "Volvo",
+    "name": "S60"
+  },
+  {
+    "brand": "Volvo",
+    "name": "S80"
+  },
+  {
+    "brand": "Volvo",
+    "name": "V60"
+  },
+  {
+    "brand": "Volvo",
+    "name": "XC60"
+  },
+  {
+    "brand": "Volvo",
+    "name": "XC70"
+  },
+  {
+    "brand": "Volvo",
+    "name": "S40"
+  },
+  {
+    "brand": "Volvo",
+    "name": "V50"
+  },
+  {
+    "brand": "Volvo",
+    "name": "C70"
+  },
+  {
+    "brand": "Volvo",
+    "name": "V70"
+  },
+  {
+    "brand": "Volvo",
+    "name": "XC90"
+  },
+  {
+    "brand": "Golf Cars Of Arizona",
+    "name": "Fairplay Car"
+  },
+  {
+    "brand": "Golf Cars Of Arizona",
+    "name": "Club Car"
+  },
+  {
+    "brand": "Volvo Truck",
+    "name": "VHD"
+  },
+  {
+    "brand": "Volvo Truck",
+    "name": "VNM"
+  },
+  {
+    "brand": "Volvo Truck",
+    "name": "VNL"
+  },
+  {
+    "brand": "Volvo Truck",
+    "name": "VAH"
+  },
+  {
+    "brand": "Volvo Truck",
+    "name": "VNX"
+  },
+  {
+    "brand": "Volvo Truck",
+    "name": "VT"
+  },
+  {
+    "brand": "Volvo Truck",
+    "name": "FM10"
+  },
+  {
+    "brand": "Volvo Truck",
+    "name": "WX"
+  },
+  {
+    "brand": "Volvo Truck",
+    "name": "WHL"
+  },
+  {
+    "brand": "Volvo Truck",
+    "name": "WXLL"
+  },
+  {
+    "brand": "Coachworks",
+    "name": "Bus"
+  },
+  {
+    "brand": "Coachworks",
+    "name": "MPV"
+  },
+  {
+    "brand": "Coachworks",
+    "name": "Incomplete"
+  },
+  {
+    "brand": "Mack",
+    "name": "CHU"
+  },
+  {
+    "brand": "Mack",
+    "name": "CXU"
+  },
+  {
+    "brand": "Mack",
+    "name": "GU"
+  },
+  {
+    "brand": "Mack",
+    "name": "LEU"
+  },
+  {
+    "brand": "Mack",
+    "name": "MRU"
+  },
+  {
+    "brand": "Mack",
+    "name": "TD"
+  },
+  {
+    "brand": "Mack",
+    "name": "LR"
+  },
+  {
+    "brand": "Mack",
+    "name": "CHN"
+  },
+  {
+    "brand": "Mack",
+    "name": "MR"
+  },
+  {
+    "brand": "Mack",
+    "name": "LE"
+  },
+  {
+    "brand": "Navistar",
+    "name": "CO"
+  },
+  {
+    "brand": "Navistar",
+    "name": "COF"
+  },
+  {
+    "brand": "Navistar",
+    "name": "1654"
+  },
+  {
+    "brand": "Navistar",
+    "name": "1724"
+  },
+  {
+    "brand": "Navistar",
+    "name": "1754"
+  },
+  {
+    "brand": "Navistar",
+    "name": "1954"
+  },
+  {
+    "brand": "Navistar",
+    "name": "1824"
+  },
+  {
+    "brand": "Navistar",
+    "name": "1854"
+  },
+  {
+    "brand": "Navistar",
+    "name": "G-1904"
+  },
+  {
+    "brand": "Navistar",
+    "name": "G-1954"
+  },
+  {
+    "brand": "Fiat",
+    "name": "500L"
+  },
+  {
+    "brand": "Fiat",
+    "name": "500"
+  },
+  {
+    "brand": "Fiat",
+    "name": "Freemont"
+  },
+  {
+    "brand": "Fiat",
+    "name": "500X"
+  },
+  {
+    "brand": "Fiat",
+    "name": "124 Spider"
+  },
+  {
+    "brand": "Fiat",
+    "name": "Spider 2000"
+  },
+  {
+    "brand": "Fiat",
+    "name": "X 1/9"
+  },
+  {
+    "brand": "Fiat",
+    "name": "Brava"
+  },
+  {
+    "brand": "Fiat",
+    "name": "Strada"
+  },
+  {
+    "brand": "Fiat",
+    "name": "Ducato"
+  },
+  {
+    "brand": "Alfa Romeo",
+    "name": "4C"
+  },
+  {
+    "brand": "Alfa Romeo",
+    "name": "8C Competizione Spider"
+  },
+  {
+    "brand": "Alfa Romeo",
+    "name": "164"
+  },
+  {
+    "brand": "Alfa Romeo",
+    "name": "Giulia (952)"
+  },
+  {
+    "brand": "Alfa Romeo",
+    "name": "Spider"
+  },
+  {
+    "brand": "Alfa Romeo",
+    "name": "Milano"
+  },
+  {
+    "brand": "Alfa Romeo",
+    "name": "GTV6"
+  },
+  {
+    "brand": "Alfa Romeo",
+    "name": "Stelvio"
+  },
+  {
+    "brand": "Chairiot Mobility",
+    "name": "Chairiot Solo"
+  },
+  {
+    "brand": "Peterbilt",
+    "name": "357"
+  },
+  {
+    "brand": "Peterbilt",
+    "name": "378"
+  },
+  {
+    "brand": "Peterbilt",
+    "name": "385"
+  },
+  {
+    "brand": "Peterbilt",
+    "name": "335"
+  },
+  {
+    "brand": "Peterbilt",
+    "name": "330"
+  },
+  {
+    "brand": "Peterbilt",
+    "name": "Medium Duty COE"
+  },
+  {
+    "brand": "Peterbilt",
+    "name": "320"
+  },
+  {
+    "brand": "Peterbilt",
+    "name": "379"
+  },
+  {
+    "brand": "Peterbilt",
+    "name": "362"
+  },
+  {
+    "brand": "Peterbilt",
+    "name": "387"
+  },
+  {
+    "brand": "Ram",
+    "name": "Promaster City"
+  },
+  {
+    "brand": "Ram",
+    "name": "1500"
+  },
+  {
+    "brand": "Ram",
+    "name": "2500"
+  },
+  {
+    "brand": "Ram",
+    "name": "3500"
+  },
+  {
+    "brand": "Ram",
+    "name": "4000"
+  },
+  {
+    "brand": "Ram",
+    "name": "4500"
+  },
+  {
+    "brand": "Ram",
+    "name": "5500"
+  },
+  {
+    "brand": "Ram",
+    "name": "Promaster 1500"
+  },
+  {
+    "brand": "Ram",
+    "name": "Promaster 2500"
+  },
+  {
+    "brand": "Ram",
+    "name": "Promaster 3500"
+  },
+  {
+    "brand": "Lancia",
+    "name": "Thema"
+  },
+  {
+    "brand": "Lancia",
+    "name": "Flavia"
+  },
+  {
+    "brand": "Lancia",
+    "name": "RTL53"
+  },
+  {
+    "brand": "Hyundai",
+    "name": "Equus"
+  },
+  {
+    "brand": "Hyundai",
+    "name": "Santa Fe"
+  },
+  {
+    "brand": "Hyundai",
+    "name": "Tucson"
+  },
+  {
+    "brand": "Hyundai",
+    "name": "Veloster"
+  },
+  {
+    "brand": "Hyundai",
+    "name": "Genesis Coupe"
+  },
+  {
+    "brand": "Hyundai",
+    "name": "Sonata"
+  },
+  {
+    "brand": "Hyundai",
+    "name": "Elantra"
+  },
+  {
+    "brand": "Hyundai",
+    "name": "Entourage"
+  },
+  {
+    "brand": "Hyundai",
+    "name": "Azera"
+  },
+  {
+    "brand": "Hyundai",
+    "name": "Veracruz"
+  },
+  {
+    "brand": "Kia",
+    "name": "Rio"
+  },
+  {
+    "brand": "Kia",
+    "name": "Soul"
+  },
+  {
+    "brand": "Kia",
+    "name": "Borrego"
+  },
+  {
+    "brand": "Kia",
+    "name": "Forte"
+  },
+  {
+    "brand": "Kia",
+    "name": "Rondo"
+  },
+  {
+    "brand": "Kia",
+    "name": "Optima"
+  },
+  {
+    "brand": "Kia",
+    "name": "Sedona"
+  },
+  {
+    "brand": "Kia",
+    "name": "Sorento"
+  },
+  {
+    "brand": "Kia",
+    "name": "Sportage"
+  },
+  {
+    "brand": "Kia",
+    "name": "Cadenza"
+  },
+  {
+    "brand": "Mad Dawg",
+    "name": "Dump Trailer"
+  },
+  {
+    "brand": "Mad Dawg",
+    "name": "Enclosed Trailer"
+  },
+  {
+    "brand": "Mad Dawg",
+    "name": "Flat Bed Trailer"
+  },
+  {
+    "brand": "Mad Dawg",
+    "name": "Side Dump Trailer"
+  },
+  {
+    "brand": "Mad Dawg",
+    "name": "Mad Dawg"
+  },
+  {
+    "brand": "Mills Manufacturing",
+    "name": "Gooseneck"
+  },
+  {
+    "brand": "Mills Manufacturing",
+    "name": "Fifth Wheel"
+  },
+  {
+    "brand": "Mills Manufacturing",
+    "name": "Ball Type Pull"
+  },
+  {
+    "brand": "Lamborghini",
+    "name": "Murcielago"
+  },
+  {
+    "brand": "Lamborghini",
+    "name": "Gallardo"
+  },
+  {
+    "brand": "Lamborghini",
+    "name": "Diablo"
+  },
+  {
+    "brand": "Lamborghini",
+    "name": "147"
+  },
+  {
+    "brand": "Lamborghini",
+    "name": "Aventador"
+  },
+  {
+    "brand": "Lamborghini",
+    "name": "Huracan"
+  },
+  {
+    "brand": "Lamborghini",
+    "name": "URUS"
+  },
+  {
+    "brand": "Lamborghini",
+    "name": "Roadster"
+  },
+  {
+    "brand": "Lamborghini",
+    "name": "Huracan STO"
+  },
+  {
+    "brand": "Valew (Hayes Welding)",
+    "name": "Hydratail"
+  },
+  {
+    "brand": "Valew (Hayes Welding)",
+    "name": "Vacuum Tank"
+  },
+  {
+    "brand": "Valew (Hayes Welding)",
+    "name": "Valew (Hayes Welding)"
+  },
+  {
+    "brand": "Smart",
+    "name": "smart"
+  },
+  {
+    "brand": "Smart",
+    "name": "Fortwo"
+  },
+  {
+    "brand": "Smart",
+    "name": "EQ Fortwo"
+  },
+  {
+    "brand": "Smart",
+    "name": "Fortwo Electric Drive"
+  },
+  {
+    "brand": "Blue Bird",
+    "name": "All American / All Canada"
+  },
+  {
+    "brand": "Blue Bird",
+    "name": "Shell All American"
+  },
+  {
+    "brand": "Blue Bird",
+    "name": "Shell Commercial Series"
+  },
+  {
+    "brand": "Blue Bird",
+    "name": "BB Conventional"
+  },
+  {
+    "brand": "Blue Bird",
+    "name": "Shell BB Conventional"
+  },
+  {
+    "brand": "Blue Bird",
+    "name": "Chassis Only"
+  },
+  {
+    "brand": "Blue Bird",
+    "name": "Wanderlodge"
+  },
+  {
+    "brand": "Blue Bird",
+    "name": "Commercial Type C"
+  },
+  {
+    "brand": "Blue Bird",
+    "name": "Commercial Type D"
+  },
+  {
+    "brand": "Blue Bird",
+    "name": "B3 Conventional"
+  },
+  {
+    "brand": "Optima",
+    "name": "Streetcar"
+  },
+  {
+    "brand": "Optima",
+    "name": "Low Floor Bus"
+  },
+  {
+    "brand": "Optima",
+    "name": "AH-28D"
+  },
+  {
+    "brand": "Optima",
+    "name": "Opus29D"
+  },
+  {
+    "brand": "Optima",
+    "name": "Opus34D"
+  },
+  {
+    "brand": "Optima",
+    "name": "Opus32D"
+  },
+  {
+    "brand": "Nabi",
+    "name": "LFW"
+  },
+  {
+    "brand": "Nabi",
+    "name": "BRT"
+  },
+  {
+    "brand": "Nabi",
+    "name": "CLFW"
+  },
+  {
+    "brand": "Nabi",
+    "name": "416"
+  },
+  {
+    "brand": "Nabi",
+    "name": "SFW"
+  },
+  {
+    "brand": "New Flyer",
+    "name": "Xcelsior"
+  },
+  {
+    "brand": "New Flyer",
+    "name": "MiDi"
+  },
+  {
+    "brand": "New Flyer",
+    "name": "Transit Bus"
+  },
+  {
+    "brand": "New Flyer",
+    "name": "Invero"
+  },
+  {
+    "brand": "New Flyer",
+    "name": "Low Floor"
+  },
+  {
+    "brand": "New Flyer",
+    "name": "Low Floor Re-styled"
+  },
+  {
+    "brand": "New Flyer",
+    "name": "High Floor"
+  },
+  {
+    "brand": "New Flyer",
+    "name": "Low Floor - Advanced Style"
+  },
+  {
+    "brand": "New Flyer",
+    "name": "Low Floor Bus"
+  },
+  {
+    "brand": "New Flyer",
+    "name": "Streetcar"
+  },
+  {
+    "brand": "Suzuki",
+    "name": "DR200SE"
+  },
+  {
+    "brand": "Suzuki",
+    "name": "GZ250"
+  },
+  {
+    "brand": "Suzuki",
+    "name": "AN400 / AN400S"
+  },
+  {
+    "brand": "Suzuki",
+    "name": "DR-Z400SL"
+  },
+  {
+    "brand": "Suzuki",
+    "name": "GSX600F/GSX600FT"
+  },
+  {
+    "brand": "Suzuki",
+    "name": "GSX-R600L"
+  },
+  {
+    "brand": "Suzuki",
+    "name": "GSF650S"
+  },
+  {
+    "brand": "Suzuki",
+    "name": "GSF650SA"
+  },
+  {
+    "brand": "Suzuki",
+    "name": "DR650SEL"
+  },
+  {
+    "brand": "Suzuki",
+    "name": "SV650/SV650S/SV650SF"
+  },
+  {
+    "brand": "Kawasaki",
+    "name": "Vulcan 2000"
+  },
+  {
+    "brand": "Kawasaki",
+    "name": "Vulcan 1600"
+  },
+  {
+    "brand": "Kawasaki",
+    "name": "Vulcan 1500"
+  },
+  {
+    "brand": "Kawasaki",
+    "name": "Ninja ZX-12R"
+  },
+  {
+    "brand": "Kawasaki",
+    "name": "ZRX 1200R"
+  },
+  {
+    "brand": "Kawasaki",
+    "name": "ZZR1200"
+  },
+  {
+    "brand": "Kawasaki",
+    "name": "KZ1000"
+  },
+  {
+    "brand": "Kawasaki",
+    "name": "CONCOURS"
+  },
+  {
+    "brand": "Kawasaki",
+    "name": "Z1000"
+  },
+  {
+    "brand": "Kawasaki",
+    "name": "Vulcan 800"
+  },
+  {
+    "brand": "E One",
+    "name": "Truck"
+  },
+  {
+    "brand": "E One",
+    "name": "Incomplete"
+  },
+  {
+    "brand": "Pete's Golf Carts",
+    "name": "Precision Cart"
+  },
+  {
+    "brand": "Hino",
+    "name": "Conventional Type Truck"
+  },
+  {
+    "brand": "Hino",
+    "name": "Incomplete Vehicle"
+  },
+  {
+    "brand": "Hino",
+    "name": "XJC710  / XFC710"
+  },
+  {
+    "brand": "Hino",
+    "name": "XJC700"
+  },
+  {
+    "brand": "Hino",
+    "name": "XJC720 / XFC720"
+  },
+  {
+    "brand": "Hino",
+    "name": "XJC740 / XFC740"
+  },
+  {
+    "brand": "Hino",
+    "name": "XJC730/XFC730"
+  },
+  {
+    "brand": "Hino",
+    "name": "Forward Control Type Truck"
+  },
+  {
+    "brand": "Hino",
+    "name": "Coach-Type Rear Engine Bus"
+  },
+  {
+    "brand": "Hino",
+    "name": "Conventional /Conventional Low Profile Truck"
+  },
+  {
+    "brand": "Lexus",
+    "name": "GS"
+  },
+  {
+    "brand": "Lexus",
+    "name": "LS"
+  },
+  {
+    "brand": "Lexus",
+    "name": "SC"
+  },
+  {
+    "brand": "Lexus",
+    "name": "IS"
+  },
+  {
+    "brand": "Lexus",
+    "name": "LX"
+  },
+  {
+    "brand": "Lexus",
+    "name": "RX"
+  },
+  {
+    "brand": "Lexus",
+    "name": "GX"
+  },
+  {
+    "brand": "Lexus",
+    "name": "ES"
+  },
+  {
+    "brand": "Lexus",
+    "name": "CT"
+  },
+  {
+    "brand": "Lexus",
+    "name": "HS"
+  },
+  {
+    "brand": "Oshkosh",
+    "name": "S Series"
+  },
+  {
+    "brand": "Oshkosh",
+    "name": "J Series"
+  },
+  {
+    "brand": "Oshkosh",
+    "name": "FF Series"
+  },
+  {
+    "brand": "Oshkosh",
+    "name": "F / M911 Series"
+  },
+  {
+    "brand": "Oshkosh",
+    "name": "P Series"
+  },
+  {
+    "brand": "Oshkosh",
+    "name": "H Series"
+  },
+  {
+    "brand": "Oshkosh",
+    "name": "NL Series"
+  },
+  {
+    "brand": "Oshkosh",
+    "name": "NK Series"
+  },
+  {
+    "brand": "Oshkosh",
+    "name": "Military (HEMTT, HET, PLS, LVS, FMTV) Series"
+  },
+  {
+    "brand": "Oshkosh",
+    "name": "T / P-19 / Striker Series"
+  },
+  {
+    "brand": "Ud",
+    "name": "UD1300"
+  },
+  {
+    "brand": "Ud",
+    "name": "UD1400"
+  },
+  {
+    "brand": "Ud",
+    "name": "UD1800 CS"
+  },
+  {
+    "brand": "Ud",
+    "name": "UD1800 HD"
+  },
+  {
+    "brand": "Ud",
+    "name": "UD2000"
+  },
+  {
+    "brand": "Ud",
+    "name": "UD2300"
+  },
+  {
+    "brand": "Ud",
+    "name": "UD2600"
+  },
+  {
+    "brand": "Ud",
+    "name": "UD3300"
+  },
+  {
+    "brand": "Ud",
+    "name": "UD1200"
+  },
+  {
+    "brand": "Ud",
+    "name": "UD1800"
+  },
+  {
+    "brand": "Owosso",
+    "name": "Pulse"
+  },
+  {
+    "brand": "Great Dane Trailers",
+    "name": "Great Dane Trailers"
+  },
+  {
+    "brand": "Caterpillar",
+    "name": "CF7AA"
+  },
+  {
+    "brand": "Caterpillar",
+    "name": "CZ7AA"
+  },
+  {
+    "brand": "Caterpillar",
+    "name": "CF7AB"
+  },
+  {
+    "brand": "Caterpillar",
+    "name": "CZ7AB"
+  },
+  {
+    "brand": "Caterpillar",
+    "name": "CR7AA"
+  },
+  {
+    "brand": "Caterpillar",
+    "name": "CX7AA"
+  },
+  {
+    "brand": "Caterpillar",
+    "name": "NF1AA"
+  },
+  {
+    "brand": "Caterpillar",
+    "name": "CF6AA"
+  },
+  {
+    "brand": "Caterpillar",
+    "name": "CF6AB"
+  },
+  {
+    "brand": "Caterpillar",
+    "name": "CR6AA"
+  },
+  {
+    "brand": "Subaru",
+    "name": "Legacy"
+  },
+  {
+    "brand": "Subaru",
+    "name": "Outback"
+  },
+  {
+    "brand": "Subaru",
+    "name": "Forester"
+  },
+  {
+    "brand": "Subaru",
+    "name": "Impreza"
+  },
+  {
+    "brand": "Subaru",
+    "name": "XV CrossTrek"
+  },
+  {
+    "brand": "Subaru",
+    "name": "WRX"
+  },
+  {
+    "brand": "Subaru",
+    "name": "BRZ"
+  },
+  {
+    "brand": "Subaru",
+    "name": "Baja"
+  },
+  {
+    "brand": "Subaru",
+    "name": "B9 Tribeca"
+  },
+  {
+    "brand": "Subaru",
+    "name": "SVX"
+  },
+  {
+    "brand": "Ic Bus",
+    "name": "PC105"
+  },
+  {
+    "brand": "Ic Bus",
+    "name": "PC205"
+  },
+  {
+    "brand": "Ic Bus",
+    "name": "PB405"
+  },
+  {
+    "brand": "Ic Bus",
+    "name": "PC405"
+  },
+  {
+    "brand": "Ic Bus",
+    "name": "PC505"
+  },
+  {
+    "brand": "Ic Bus",
+    "name": "PC605"
+  },
+  {
+    "brand": "Ic Bus",
+    "name": "PC705"
+  },
+  {
+    "brand": "Ic Bus",
+    "name": "PC045"
+  },
+  {
+    "brand": "Ic Bus",
+    "name": "PC055"
+  },
+  {
+    "brand": "Ic Bus",
+    "name": "PC035"
+  },
+  {
+    "brand": "Workhorse",
+    "name": "WA005"
+  },
+  {
+    "brand": "Workhorse",
+    "name": "WA002"
+  },
+  {
+    "brand": "Workhorse",
+    "name": "W24"
+  },
+  {
+    "brand": "Workhorse",
+    "name": "W42"
+  },
+  {
+    "brand": "Workhorse",
+    "name": "W18"
+  },
+  {
+    "brand": "Workhorse",
+    "name": "W62"
+  },
+  {
+    "brand": "Workhorse",
+    "name": "LF72"
+  },
+  {
+    "brand": "Workhorse",
+    "name": "W22"
+  },
+  {
+    "brand": "Workhorse",
+    "name": "3/4 Ton Nominal"
+  },
+  {
+    "brand": "Workhorse",
+    "name": "1 Ton Nominal"
+  },
+  {
+    "brand": "International",
+    "name": "L3337"
+  },
+  {
+    "brand": "International",
+    "name": "L9217"
+  },
+  {
+    "brand": "International",
+    "name": "L9227"
+  },
+  {
+    "brand": "International",
+    "name": "L9327"
+  },
+  {
+    "brand": "International",
+    "name": "L9357"
+  },
+  {
+    "brand": "International",
+    "name": "L9427"
+  },
+  {
+    "brand": "International",
+    "name": "LA617"
+  },
+  {
+    "brand": "International",
+    "name": "LA627"
+  },
+  {
+    "brand": "International",
+    "name": "LF617"
+  },
+  {
+    "brand": "International",
+    "name": "LF627"
+  },
+  {
+    "brand": "Geely",
+    "name": "1 series"
+  },
+  {
+    "brand": "Geely",
+    "name": "2 series"
+  },
+  {
+    "brand": "Geely",
+    "name": "3 series"
+  },
+  {
+    "brand": "Geely",
+    "name": "4 series"
+  },
+  {
+    "brand": "Geely",
+    "name": "5 series"
+  },
+  {
+    "brand": "Geely",
+    "name": "6 series"
+  },
+  {
+    "brand": "Geely",
+    "name": "7 series"
+  },
+  {
+    "brand": "Geely",
+    "name": "8 series"
+  },
+  {
+    "brand": "Geely",
+    "name": "9 series"
+  },
+  {
+    "brand": "Geely",
+    "name": "10 series"
+  },
+  {
+    "brand": "Mitsubishi Fuso",
+    "name": "FE83D"
+  },
+  {
+    "brand": "Mitsubishi Fuso",
+    "name": "FE84D"
+  },
+  {
+    "brand": "Mitsubishi Fuso",
+    "name": "FE85D"
+  },
+  {
+    "brand": "Mitsubishi Fuso",
+    "name": "FE84DW"
+  },
+  {
+    "brand": "Mitsubishi Fuso",
+    "name": "FG84D"
+  },
+  {
+    "brand": "Mitsubishi Fuso",
+    "name": "FK61F"
+  },
+  {
+    "brand": "Mitsubishi Fuso",
+    "name": "FM61F"
+  },
+  {
+    "brand": "Mitsubishi Fuso",
+    "name": "FM64F"
+  },
+  {
+    "brand": "Mitsubishi Fuso",
+    "name": "FM65F"
+  },
+  {
+    "brand": "Mitsubishi Fuso",
+    "name": "FK62F"
+  },
+  {
+    "brand": "Forest River",
+    "name": "Auto Plus"
+  },
+  {
+    "brand": "Forest River",
+    "name": "Auto Plus with Living Quarters"
+  },
+  {
+    "brand": "Forest River",
+    "name": "Auto Master"
+  },
+  {
+    "brand": "Forest River",
+    "name": "Auto Master with Living Quarters"
+  },
+  {
+    "brand": "Forest River",
+    "name": "All American Sport"
+  },
+  {
+    "brand": "Forest River",
+    "name": "Amera-lite"
+  },
+  {
+    "brand": "Forest River",
+    "name": "Aero Wedge"
+  },
+  {
+    "brand": "Forest River",
+    "name": "Bigmax"
+  },
+  {
+    "brand": "Forest River",
+    "name": "Cardinal Towables"
+  },
+  {
+    "brand": "Forest River",
+    "name": "Cabin"
+  },
+  {
+    "brand": "Kenworth",
+    "name": "T6 Series"
+  },
+  {
+    "brand": "Kenworth",
+    "name": "T4 Series"
+  },
+  {
+    "brand": "Kenworth",
+    "name": "C5 Series"
+  },
+  {
+    "brand": "Kenworth",
+    "name": "T8 Series"
+  },
+  {
+    "brand": "Kenworth",
+    "name": "K 100E"
+  },
+  {
+    "brand": "Kenworth",
+    "name": "T7 Series"
+  },
+  {
+    "brand": "Kenworth",
+    "name": "T3 Series"
+  },
+  {
+    "brand": "Kenworth",
+    "name": "K270/K370"
+  },
+  {
+    "brand": "Kenworth",
+    "name": "K100"
+  },
+  {
+    "brand": "Kenworth",
+    "name": "L7 Series"
+  },
+  {
+    "brand": "Maybach",
+    "name": "Maybach"
+  },
+  {
+    "brand": "John Thomas",
+    "name": "John Thomas"
+  },
+  {
+    "brand": "Thomas Built",
+    "name": "MVP-ER (Engine Rear)"
+  },
+  {
+    "brand": "Thomas Built",
+    "name": "MVP-ER Chassis Only"
+  },
+  {
+    "brand": "Thomas Built",
+    "name": "ER Transit Chassis Only"
+  },
+  {
+    "brand": "Thomas Built",
+    "name": "MVP-EF (Engine Front)"
+  },
+  {
+    "brand": "Thomas Built",
+    "name": "HDX"
+  },
+  {
+    "brand": "Thomas Built",
+    "name": "HDX Chassis Only"
+  },
+  {
+    "brand": "Thomas Built",
+    "name": "ER TRANSIT (ENGINE REAR)"
+  },
+  {
+    "brand": "Thomas Built",
+    "name": "CITILINER/CHARTOUR"
+  },
+  {
+    "brand": "Thomas Built",
+    "name": "SAF-T-LINER ER"
+  },
+  {
+    "brand": "Thomas Built",
+    "name": "SAF-T-LINER MVP"
+  },
+  {
+    "brand": "Pontiac",
+    "name": "Vibe"
+  },
+  {
+    "brand": "Pontiac",
+    "name": "G5"
+  },
+  {
+    "brand": "Pontiac",
+    "name": "Solstice"
+  },
+  {
+    "brand": "Pontiac",
+    "name": "Wave"
+  },
+  {
+    "brand": "Pontiac",
+    "name": "Grand Prix"
+  },
+  {
+    "brand": "Pontiac",
+    "name": "G6"
+  },
+  {
+    "brand": "Pontiac",
+    "name": "G8"
+  },
+  {
+    "brand": "Pontiac",
+    "name": "G3"
+  },
+  {
+    "brand": "Pontiac",
+    "name": "Montana/ SV6"
+  },
+  {
+    "brand": "Pontiac",
+    "name": "Torrent"
+  },
+  {
+    "brand": "Thomas Grinding",
+    "name": "Thomas Grinding"
+  },
+  {
+    "brand": "Morgan",
+    "name": "Roadster"
+  },
+  {
+    "brand": "Morgan",
+    "name": "Aero8"
+  },
+  {
+    "brand": "Morgan",
+    "name": "3 Wheeler"
+  },
+  {
+    "brand": "Morgan",
+    "name": "Morgan Motor"
+  },
+  {
+    "brand": "Morgan Trailers",
+    "name": "Morgan Trailers"
+  },
+  {
+    "brand": "Altec",
+    "name": "Altec"
+  },
+  {
+    "brand": "Isuzu",
+    "name": "Trooper"
+  },
+  {
+    "brand": "Isuzu",
+    "name": "Rodeo"
+  },
+  {
+    "brand": "Isuzu",
+    "name": "VehiCross"
+  },
+  {
+    "brand": "Isuzu",
+    "name": "NPR/NPR-HD"
+  },
+  {
+    "brand": "Isuzu",
+    "name": "NQR/NRR"
+  },
+  {
+    "brand": "Isuzu",
+    "name": "Ascender"
+  },
+  {
+    "brand": "Isuzu",
+    "name": "Oasis"
+  },
+  {
+    "brand": "Isuzu",
+    "name": "Pickup"
+  },
+  {
+    "brand": "Isuzu",
+    "name": "Axiom"
+  },
+  {
+    "brand": "Isuzu",
+    "name": "NPR/ NPR-HD/ NPR-XD"
+  },
+  {
+    "brand": "Beckenridge",
+    "name": "Hornet"
+  },
+  {
+    "brand": "Beckenridge",
+    "name": "Challenger"
+  },
+  {
+    "brand": "Beckenridge",
+    "name": "Escaper"
+  },
+  {
+    "brand": "Beckenridge",
+    "name": "Breckenridge"
+  },
+  {
+    "brand": "Cruiser Rv",
+    "name": "Fun Finder"
+  },
+  {
+    "brand": "Cruiser Rv",
+    "name": "Land Roamer"
+  },
+  {
+    "brand": "Cruiser Rv",
+    "name": "View Finder"
+  },
+  {
+    "brand": "Cruiser Rv",
+    "name": "Shadow Cruiser"
+  },
+  {
+    "brand": "Cruiser Rv",
+    "name": "Enterra"
+  },
+  {
+    "brand": "Cruiser Rv",
+    "name": "Radiance"
+  },
+  {
+    "brand": "Cruiser Rv",
+    "name": "Stryker"
+  },
+  {
+    "brand": "Cruiser Rv",
+    "name": "MPG"
+  },
+  {
+    "brand": "Cruiser Rv",
+    "name": "Boss"
+  },
+  {
+    "brand": "Cruiser Rv",
+    "name": "Cell Caravan"
+  },
+  {
+    "brand": "Drv",
+    "name": "DRV"
+  },
+  {
+    "brand": "Drv",
+    "name": "All Aluminum Structure"
+  },
+  {
+    "brand": "Drv",
+    "name": "Tradition"
+  },
+  {
+    "brand": "Drv",
+    "name": "Travel Suites"
+  },
+  {
+    "brand": "Thor Manufacturing Llc",
+    "name": "Thor Manufacturing LLC"
+  }
+]
