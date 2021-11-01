@@ -6,6 +6,9 @@ Rails.application.routes.draw do
 
       post "cars/:car_id/favorites", to: "favorites#create"
       delete "cars/:car_id/favorites", to: "favorites#destroy"
+
+      post "/login", to: "auth#login"
+      get "/auth", to: "auth#persist"
     end
   end
 end
