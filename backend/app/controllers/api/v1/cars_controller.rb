@@ -10,11 +10,11 @@ class Api::V1::CarsController < ApplicationController
 
     options = links_paginated_options('api_v1_cars_path', @cars)
 
-    render json: CarSerializer.render(@cars, root: :data)
+    render json: CarSerializer.render(@cars)
   end
 
   def show
-    render json: CarSerializer.render(@car, root: :data)
+    render json: CarSerializer.render(@car)
   end
 
   def favorite
