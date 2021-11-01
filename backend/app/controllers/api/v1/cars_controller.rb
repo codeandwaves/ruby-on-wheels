@@ -20,16 +20,16 @@ class Api::V1::CarsController < ApplicationController
   def favorite
     # require authentication
 
-    @new_favorite = Favorite.create(
-      user: current_user,
-      car: @car
-    )
+    # @new_favorite = Favorite.create(
+    #   user: current_user,
+    #   car: @car
+    # )
 
-    if @new_favorite.valid?
-      render json: { status: :success, message: "Added sucessfully" }
-    else
-      render json: { status: :bad_request, message: @new_favorite.errors.full_messages }
-    end
+    # if @new_favorite.valid?
+    #   render json: { status: :success, message: "Added sucessfully" }
+    # else
+    #   render json: { status: :bad_request, message: @new_favorite.errors.full_messages }
+    # end
   end
 
 

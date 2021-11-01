@@ -2,5 +2,8 @@ class CarSerializer < Blueprinter::Base
   identifier :id
 
   fields :name, :mileage
-  association :brand, blueprint: BrandSerializer
+
+  field :brand do |car|
+    car.brand.name
+  end
 end
