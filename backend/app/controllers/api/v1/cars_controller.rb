@@ -10,11 +10,11 @@ class Api::V1::CarsController < ApplicationController
 
     options = links_paginated_options('api_v1_cars_path', @cars)
 
-    render json: CarSerializer.render(@cars)
+    render json: BaseSerializer.render(@cars, pagination)
   end
 
   def show
-    render json: CarSerializer.render(@car)
+    render json: BaseSerializer.render(@car)
   end
 
   def favorite
@@ -41,5 +41,13 @@ class Api::V1::CarsController < ApplicationController
 
   def set_car
     @car = Car.find(params[:id])
+  end
+
+  def pagination
+    {
+      total_cars: @cars.count,
+      total_pages: @cars.total_pages,
+      current_page: current_page
+    }
   end
 end

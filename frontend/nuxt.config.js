@@ -29,7 +29,14 @@ export default {
 
   // Modules for dev and build (recommended): https://go.nuxtjs.dev/config-modules
   buildModules: [
+    '@nuxtjs/vuetify',
   ],
+
+  publicRuntimeConfig: {
+    axios: {
+      baseURL: 'http://localhost:5000'
+    }
+  },
 
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
@@ -38,9 +45,10 @@ export default {
   ],
 
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
-  axios: {
-    // baseURL: 'http://localhost:5000', // Used as fallback if no runtime config is provided
-  },
+  // axios: {
+  //   baseURL: 'http://localhost:5000', // Used as fallback if no runtime config is provided
+  // },
+
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {

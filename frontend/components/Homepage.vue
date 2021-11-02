@@ -1,30 +1,20 @@
 <template>
-  <div>
-    <ul class="list-of-items">
-      <list
-        v-for="car in cars"
-        :name="car.name"
-        :brand="car.brand"
-        :key="car.id"
-      />
-    </ul>
+  <div style="display: flex">
+    <div>
+      <h1>Cars</h1>
+      <card-car :cars="cars" />
+    </div>
+
+    <div>
+      <h1>Favorites</h1>
+      <card-car :cars="cars" />
+    </div>
   </div>
 </template>
 
 
 <script>
-  import List from '~/components/List.vue'
-
   export default {
-    components: {
-      List
-    },
-
-    async asyncData ({ $axios }) {
-      const cars = await $axios.$get('http://localhost:5000/api/v1/cars')
-      return {
-        cars
-      }
-    }
-  };
+    props: [ 'cars' ],
+  }
 </script>
