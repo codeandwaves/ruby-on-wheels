@@ -1,4 +1,4 @@
-class CarSerializer < Blueprinter::Base
+class CarSerializer < BaseSerializer
   identifier :id
 
   fields :name, :mileage
