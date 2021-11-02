@@ -4,10 +4,6 @@ class ApplicationController < ActionController::API
 
   before_action :authenticate_user
 
-  def secret
-    "supers3cr3t"
-  end
-
   private
 
   def authenticate_user!(options = {})
