@@ -7,10 +7,6 @@
 
 name: Run Rspec
 
-defaults:
-  run:
-    working-directory: backend
-
 on:
   push:
     branches: [ main ]
@@ -54,6 +50,6 @@ jobs:
         bundler-cache: true # runs 'bundle install' and caches installed gems automatically
     - name: Create DB
       run: |
-        bin/rails db:prepare
+        bin/rake db:prepare
     - name: Run tests
       run: bundle exec rake spec
