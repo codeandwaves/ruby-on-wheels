@@ -1,14 +1,21 @@
 <template>
   <div>
-    <homepage :cars="cars" />
+    <homepage :cars="cars" :favorite_cars="favorite_cars" />
   </div>
 </template>
 
 <script>
   export default {
-    async asyncData({ $axios, $config }) {
-      const cars = await $axios.$get(`/api/v1/cars`)
-      return { cars }
+    async asyncData ({ $axios }) {
+      const [cars, favorite_cars] = await Promise.all([
+        $axios.get('/cars'),
+        $axios.get('/cars/favorites'),
+      ])
+
+      return {
+        cars: cars.data,
+        favorite_cars: favorite_cars.data,
+      }
     }
   }
 </script>

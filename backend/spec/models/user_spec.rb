@@ -13,4 +13,11 @@ RSpec.describe User, type: :model do
     email_already_used = create(:user).email
     expect(build(:user, email: email_already_used)).to_not be_valid
   end
+
+  context "Authentication" do
+    it "possible to authenticate user with password" do
+      user = create(:user)
+    end
+
+  end
 end

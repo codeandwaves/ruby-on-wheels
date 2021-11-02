@@ -1,0 +1,4 @@
+module Concerns::User::Admin
+  extend ActiveSupport::Concern
+
+end

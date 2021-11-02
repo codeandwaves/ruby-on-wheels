@@ -3,9 +3,11 @@ class BaseSerializer < Blueprinter::Base
 
   # Override render method from Blueprinter::Base to format response.
   def self.render(object, links = {})
+    return {} if object.try(:empty?)
+
     serializer_klass = resource_serializer_class(object)
     # {
-    #   "data": serializer_klass.render_as_json(object)
+    #   "data" => serializer_klass.render_as_json(object)
     # }.merge!(links)
     serializer_klass.render_as_json(object)
   end
