@@ -1,14 +1,15 @@
 class Api::V1::FavoritesController < ApplicationController
+  before_action :authenticate_user!
+
   def create
     # require authentication
-    binding.pry
     favorite = Favorite.new(favorite_params)
     favorite.user = current_user
 
     if favorite.save
       render json: favorite, status: :created
     else
-      render json: favorite.erros, status: :unprocessable_entity
+      render json: { errors: { message: favorite.errors.full_messages } }, status: :unprocessable_entity
     end
   end
 
@@ -17,9 +18,13 @@ class Api::V1::FavoritesController < ApplicationController
     head :no_content
   end
 
+  def index
+    render json: BaseSerializer.render(current_user.favorite_cars)
+  end
+
   private
 
   def favorite_params
-    params.require(:favorite).permit(:id)
+    params.permit(:car_id)
   end
 end

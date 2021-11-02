@@ -1,6 +1,7 @@
 class Api::V1::CarsController < ApplicationController
   include Paginable
 
+  before_action :authenticate_user!
   before_action :set_car, only: %i[show favorite]
 
   def index

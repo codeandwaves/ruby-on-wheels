@@ -34,7 +34,7 @@ export default {
 
   publicRuntimeConfig: {
     axios: {
-      baseURL: 'http://localhost:5000'
+      baseURL: 'http://localhost:5000/api/v1'
     }
   },
 
@@ -42,6 +42,7 @@ export default {
   modules: [
     // https://go.nuxtjs.dev/axios
     '@nuxtjs/axios',
+    '@nuxtjs/auth-next'
   ],
 
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
@@ -49,6 +50,35 @@ export default {
   //   baseURL: 'http://localhost:5000', // Used as fallback if no runtime config is provided
   // },
 
+  auth: {
+    strategies: {
+      local: {
+        token: {
+          property: "token", //property name that the Back-end sends for you as a access token for saving on localStorage and cookie of user browser
+          global: true,
+          required: true,
+          type: "Bearer"
+        },
+        user: {
+          property: "user",
+          autoFetch: true
+        },
+        endpoints: {
+          login: { url: "/login", method: "post" },
+          logout: false,
+          user: { url: "/auth", method: "get" }
+        }
+      }
+    }
+  },
+
+  axios: {
+    baseURL: "http://localhost:5000/api/v1"
+  },
+
+  router: {
+    middleware: ['isAuthenticated']
+  },
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
