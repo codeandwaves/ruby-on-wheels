@@ -16,10 +16,11 @@ Simple car marketplace using Rails as API and Nuxt/VUE.js as frontend.
 
 # How to run
   1. cd backend
-  2. bin/rails s
-  3. cd ../backend
-  4. yarn dev
-  5. visit http://localhost:5000
-  6. login:
-    user: test@row.com
-    pass: 123123123
+  2. run `rails db:setup`
+  3. bin/rails s
+  4. cd ../frontend
+  5. yarn dev
+  6. visit http://localhost:5000
+  7. login:
+    user: row2@row-dev.com
+    pass: supers3cr3t
