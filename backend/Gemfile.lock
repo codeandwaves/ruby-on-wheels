@@ -60,6 +60,7 @@ GEM
       minitest (>= 5.1)
       tzinfo (~> 2.0)
       zeitwerk (~> 2.3)
+    bcrypt (3.1.16)
     blueprinter (0.25.3)
     bootsnap (1.9.1)
       msgpack (~> 1.0)
@@ -69,6 +70,7 @@ GEM
     concurrent-ruby (1.1.9)
     crass (1.0.6)
     diff-lcs (1.4.4)
+    docile (1.4.0)
     erubi (1.10.0)
     factory_bot (6.2.0)
       activesupport (>= 5.0.0)
@@ -82,6 +84,7 @@ GEM
       activesupport (>= 5.0)
     i18n (1.8.10)
       concurrent-ruby (~> 1.0)
+    jwt (2.3.0)
     kaminari (1.2.1)
       activesupport (>= 4.1.0)
       kaminari-actionview (= 1.2.1)
@@ -172,6 +175,10 @@ GEM
       rspec-support (~> 3.10)
     rspec-support (3.10.2)
     ruby-progressbar (1.11.0)
+    simplecov (0.19.1)
+      docile (~> 1.1)
+      simplecov-html (~> 0.11)
+    simplecov-html (0.12.3)
     spring (3.0.0)
     sprockets (4.0.2)
       concurrent-ruby (~> 1.0)
@@ -192,11 +199,13 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  bcrypt (~> 3.1.16)
   blueprinter (~> 0.25.3)
   bootsnap (>= 1.4.4)
   byebug
   factory_bot_rails (~> 6.2.0)
   faker (~> 2.19.0)
+  jwt (~> 2.3.0)
   kaminari (~> 1.2.1)
   listen (~> 3.3)
   pg (~> 1.1)
@@ -206,6 +215,7 @@ DEPENDENCIES
   rails (~> 6.1.4)
   rspec-rails (~> 5.0.2)
   ruby-progressbar (~> 1.11.0)
+  simplecov (~> 0.19.1)
   spring
   tzinfo-data
 

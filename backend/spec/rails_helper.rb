@@ -8,6 +8,16 @@ require 'rspec/rails'
 require 'faker'
 require 'support/factory_bot'
 # Add additional requires below this line. Rails is not loaded until this point!
+require 'simplecov'
+SimpleCov.start 'rails' do
+  add_filter do |source_file|
+    # remove all controller that only inherit from other controller
+    source_file.lines.count < 5
+  end
+  add_group "Serializers", "app/serializers"
+  add_group "Controllers", "app/controllers"
+  add_group "Models", "app/models"
+end
 
 # Requires supporting ruby files with custom matchers and macros, etc, in
 # spec/support/ and its subdirectories. Files matching `spec/**/*_spec.rb` are
