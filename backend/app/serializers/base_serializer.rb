@@ -2,14 +2,11 @@ class BaseSerializer < Blueprinter::Base
   identifier :id
 
   # Override render method from Blueprinter::Base to format response.
-  def self.render(object, pagination = {})
+  def self.render(object, links = {})
     serializer_klass = resource_serializer_class(object)
     # {
-    #   "data": serializer_klass.render_as_json(object),
-    #   "totalItems": pagination[:total_cars],
-    #   "totalPages": pagination[:total_pages],
-    #   "currentPage": pagination[:current_page]
-    # }
+    #   "data": serializer_klass.render_as_json(object)
+    # }.merge!(links)
     serializer_klass.render_as_json(object)
   end
 
