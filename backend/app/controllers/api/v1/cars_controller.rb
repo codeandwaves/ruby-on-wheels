@@ -5,9 +5,9 @@ class Api::V1::CarsController < ApplicationController
   before_action :set_car, only: %i[show favorite]
 
   def index
-    @cars = Car.includes(:brand)
-                .page(current_page)
-                .per(per_page)
+    @cars = Car.order_by_favorites
+               .page(current_page)
+               .per(per_page)
 
     options = links_paginated_options('api_v1_cars_path', @cars)
 
