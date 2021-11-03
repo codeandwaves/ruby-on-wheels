@@ -1,9 +1,16 @@
 class CarSerializer < BaseSerializer
-  identifier :id
+
+  fields :id do |cars|
+    cars.id
+  end
 
   fields :name, :mileage
 
-  field :brand do |car|
-    car.brand.name
+  # field :brand do |car|
+  #   car.brand.name
+  # end
+
+  field :favs do |car|
+    car.try(:favs)
   end
 end
